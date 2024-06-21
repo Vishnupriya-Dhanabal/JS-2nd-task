@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(173, 143, 143);
+}
+.but{
+    margin-left: 40%;
+    margin-top: 22%;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightpink;
+    color:rgb(85, 85, 224);
+    border-color:lightpink;
+    box-shadow: inset;
+    border-radius: 10px;
+    cursor:pointer;
+    
+}
